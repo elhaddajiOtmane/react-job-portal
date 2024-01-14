@@ -19,7 +19,7 @@
     "moment": "^2.29.1",
     "node-sass": "^6.0.1",
     "react": "^16.14.0",
-    "react-bootstrap": "^1.4.0",
+    "react-bootstrap": "^1.6.8",
     "react-dom": "^16.14.0",
     "react-facebook-login": "^4.1.1",
     "react-flatpickr": "^3.10.6",
